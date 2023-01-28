@@ -185,7 +185,7 @@ section .title::after {
 
 .home {
     display: flex;
-    background: url(file:///C:/Users/saroj/Downloads/sarojback.jpg) no-repeat center;
+    background: url(img/sarojback.jpg) no-repeat center;
     height: 100vh;
     color: #15eb80;
     min-height: 500px;
